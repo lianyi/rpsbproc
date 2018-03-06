@@ -1,0 +1,7 @@
+# $Id: RpsbProc Makefile.in shlu $
+
+APP_PROJ = rpsbproc
+
+srcdir = @srcdir@
+include @builddir@/Makefile.meta
+
